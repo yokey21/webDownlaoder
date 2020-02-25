@@ -2,6 +2,7 @@
 import requests
 
 n = 10
+
 while(n < 23):
 
     image_url = "http://www.math.yorku.ca/~alipm/math1019/LectureNotes/Lecture" + str(n) + ".pdf"

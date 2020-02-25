@@ -14,6 +14,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1YJjIiT1AsnkaKl0IEK59VVkO38" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +26,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -70,25 +75,33 @@
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="382" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.828@0.23.1440.828" timestamp="1582667620963" />
-    <state width="1419" height="168" key="GridCell.Tab.0.bottom" timestamp="1582668231203">
+    <state width="1419" height="168" key="GridCell.Tab.0.bottom" timestamp="1582668530066">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="168" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582668231203" />
+    <state width="1419" height="168" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582668530066" />
     <state width="1239" height="168" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1582667731693" />
-    <state width="1419" height="168" key="GridCell.Tab.0.center" timestamp="1582668231199">
+    <state width="1419" height="168" key="GridCell.Tab.0.center" timestamp="1582668530063">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="168" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582668231199" />
+    <state width="1419" height="168" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582668530063" />
     <state width="1239" height="168" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1582667731691" />
-    <state width="1419" height="168" key="GridCell.Tab.0.left" timestamp="1582668231199">
+    <state width="1419" height="168" key="GridCell.Tab.0.left" timestamp="1582668530063">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="168" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582668231199" />
+    <state width="1419" height="168" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582668530063" />
     <state width="1239" height="168" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1582667731690" />
-    <state width="1419" height="168" key="GridCell.Tab.0.right" timestamp="1582668231202">
+    <state width="1419" height="168" key="GridCell.Tab.0.right" timestamp="1582668530065">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="168" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582668231202" />
+    <state width="1419" height="168" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582668530065" />
     <state width="1239" height="168" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1582667731692" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1582668511498">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582668511498" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582668523047">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1582668523047" />
   </component>
 </project>
